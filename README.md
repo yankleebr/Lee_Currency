@@ -1,3 +1,5 @@
+<img src="[https://exemplo.com/logo.png](https://github.com/yankleebr/Lee_Currency/blob/master/public/apresentacao.png)" alt="Apresentação LeeCurrency">
+
 # React + TypeScript + Vite
 
 Busca dados de moedas de uma API - https://coinlib.io/.
