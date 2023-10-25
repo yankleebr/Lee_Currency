@@ -1,4 +1,4 @@
-<img src="[https://exemplo.com/logo.png](https://github.com/yankleebr/Lee_Currency/blob/master/public/apresentacao.png)" alt="Apresentação LeeCurrency">
+<img src="https://github.com/yankleebr/Lee_Currency/blob/master/public/apresentacao.png" alt="Apresentação LeeCurrency">
 
 # React + TypeScript + Vite
 
